@@ -209,7 +209,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed (version 18 or highe
 
 ## 📝 Usage Notes
 
-- **Sign Up / Login:** The application requires a valid `@gmail.com` address (e.g. `john@gmail.com`) for registration and login.
+- **Sign Up / Login:** The application requires a valid `@gmail.com` address (e.g. `vijay@gmail.com`) for registration and login.
 - **Cart:** Cart items persist in your browser even after page reloads.
 
 ---
